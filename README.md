@@ -2,6 +2,8 @@
 
 My solutions to problems from [Rosalind](https://rosalind.info), a platform for learning bioinformatics through problem solving.
 
+**Profile:** [nesirli on Rosalind](https://rosalind.info/users/nesirli/)
+
 ## Project Structure
 
 ```
