@@ -1,7 +1,7 @@
 [project]
 name = "rosalind-bioinfo"
 version = "0.1.0"
-description = "Add your description here"
+description = "Solutions to Rosalind bioinformatics problems covering algorithms, computational biology, and programming challenges"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = []
